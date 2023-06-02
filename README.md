@@ -6,6 +6,12 @@
 * My background is in hair styling/bridal design and salon ownership. I am a 30-something career-changer, and happy to be so! I am always striving to learn more, be creative, and find more ways to be as remote as possible. 
 * I spend too much of my free time reading books and playing video games, always while drinking tea and sitting next to my dog, Satoru. 🐶 🎮 🍵
 
+# Projects
+
+1. Fantasy Dungeon *A D&D Character Customization App* [https://github.com/bethany-lynn/dnd-character-creation](url) 
+2. Bird-Dex *8-bit Style App about birds and their stats (Collaborating with @juneadam - the most wonderful bird partner!)* [https://github.com/juneadam/bird-app](url)
+3. Portfolio -*My lil website *(release date coming)
+
 <!-- 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="[https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png](https://media.tenor.com/m3kku21wt-cAAAAC/pixel-art-moon.gif)">
@@ -29,12 +35,6 @@ Some languages I have currently worked with are:
 |     3 | PostgresSQL |
 |     1| Elixir |
 |     2| APIs    |
-
-# Projects
-
-1. Fantasy Dungeon *A D&D Character Customization App* 
-2. Bird-Dex *8-bit Style App about birds and their stats (Collaborating with @juneadam - the most wonderful bird partner!)*
-3. Portfolio -*My lil website *(release date coming)
 
 ### 🐉
 
