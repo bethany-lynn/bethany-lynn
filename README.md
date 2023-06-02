@@ -6,7 +6,7 @@
 * My background is in hair styling/bridal design and salon ownership. I am a 30-something career-changer, and happy to be so! I am always striving to learn more, be creative, and find more ways to be as remote as possible. 
 * I spend too much of my free time reading books and playing video games, always while drinking tea and sitting next to my dog, Satoru. 🐶 🎮 🍵
 
-# Projects
+## Projects
 
 1. Fantasy Dungeon *A D&D Character Customization App* [https://github.com/bethany-lynn/dnd-character-creation](url) 
 2. Bird-Dex *8-bit Style App about birds and their stats (Collaborating with @juneadam - the most wonderful bird partner!)* [https://github.com/juneadam/bird-app](url)
@@ -19,7 +19,7 @@
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture> -->
 
-# Technical Info
+## Technical Info
 
 I am always learning more and improving my programming skills. I have a particular fondness for layout and design, as well as database organization. 
 Some languages I have currently worked with are:
