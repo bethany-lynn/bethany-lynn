@@ -1,4 +1,4 @@
-## Hiya, I'm Bethany! 🧚‍♀️
+<h1 align="center">Hiya, I'm Bethany! 🧚‍</h1>
 
 ## More About Me
 
