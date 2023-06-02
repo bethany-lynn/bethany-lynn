@@ -10,7 +10,7 @@
 
 1. Fantasy Dungeon *A D&D Character Customization App* [https://github.com/bethany-lynn/dnd-character-creation](url) 
 2. Bird-Dex *8-bit Style App about birds and their stats (Collaborating with @juneadam - the most wonderful bird partner!)* [https://github.com/juneadam/bird-app](url)
-3. Portfolio -*My lil website *(release date coming)
+3. Portfolio - *My lil website* (release date coming)
 
 <!-- 
 <picture>
