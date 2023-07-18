@@ -1,5 +1,5 @@
 <h1 align="center">Hiya, I'm Bethany! 🧚‍</h1>
-
+https://bethanysportfolio.fly.dev/
 ## More About Me
 
 * I am a full-stack developer who has recently graduated from a coding bootcamp, and has been coding independently for a year. I am working on a few projects currently, and am starting my journey of learning Elixir. Currently reading: Introducing Elixir by Simon St. Laurent & J. David Eisenberg.
